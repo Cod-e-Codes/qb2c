@@ -42,11 +42,6 @@ gcc demo.c -o demo -lncurses
 * IF...THEN...ELSE...END IF (Conditional blocks)
 * FOR...NEXT Loops (Iterative blocks)
 * SLEEP (Uses napms for pausing execution)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 * GOTO and Labels (Jump statements)
 
 ## Known Issues (Current State)
@@ -54,3 +49,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * FOR loops in the demo may not produce correct results.
 * Future enhancements could include support for WHILE/WEND or SUB/END SUB.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
