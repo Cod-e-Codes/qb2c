@@ -1,0 +1,13 @@
+# Compiled binaries
+demo
+qb2c
+
+# Generated C files
+*.c
+
+# Editor folders
+.vscode/
+
+# OS files
+*.swp
+*.DS_Store
